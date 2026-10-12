@@ -1,0 +1,8 @@
+config.json
+evaluated_jobs*.csv
+*.xlsx
+__pycache__/
+.env
+venv/
+jobs_database.db
+.playwright_google_profile/
